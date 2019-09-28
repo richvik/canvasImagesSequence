@@ -6,7 +6,7 @@ Options default:<br>
   4.**images**: 'Array images'<br>
   5.**loop**: 'false'<br>
   
-****let animate = new Animate('canvas-id',{ <br>
+let animate = new Animate('canvas-id',{ <br>
     fps:20, <br>
     images:['img/img.jpg','img/img.jpg','img/img.jpg','img/img.jpg'] <br>
 })<br>
